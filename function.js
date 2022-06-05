@@ -13,3 +13,16 @@ let StockStatus = "is Stock"
 console.log(product.productName);
 console.log(product["is Stock"]);
 console.log(product[StockStatus]);
+
+// Find the correct lenght
+
+function findLenght(){
+    let numbers = "123456789";
+    let numbersLenght = numbers.length;
+
+    for (let i = 0; i < numbersLenght; i++){
+        console.log(numbers[i]);
+    }
+}
+
+findLenght();
