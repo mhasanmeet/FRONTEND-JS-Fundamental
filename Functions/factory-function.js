@@ -1,9 +1,12 @@
+
 // JavaScript Factory Function | JS Class
 // This is a basic object where have a method
 const productData = {
     pName: "React Developer T-shirt",
     pPrice: 350,
     pStock: true,
+
+    // Method
     pDescription(){
         return `${productData.pName}, ${productData.pPrice}`
     }
