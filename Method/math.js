@@ -1,5 +1,4 @@
 
-// JavaScript Math Function
 console.log(Math.PI); // π (Pi) value
 
 let n = 20.985;

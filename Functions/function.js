@@ -15,7 +15,6 @@ console.log(product["is Stock"]);
 console.log(product[StockStatus]);
 
 // Find the correct lenght
-
 function findLenght(){
     let numbers = "123456789";
     let numbersLenght = numbers.length;
@@ -26,7 +25,6 @@ function findLenght(){
 }
 
 findLenght();
-
 
 //
 function myFunc() {
