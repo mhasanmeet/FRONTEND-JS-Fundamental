@@ -34,7 +34,9 @@ function main(){
 
     // Copy to Clipboard and change Button color to green
     copyBtn.addEventListener('click', function(){
+        // Copy to Clipboard
         navigator.clipboard.writeText(output.value)
+        // Change Button color to green
         copyBtn.innerHTML = "Code Copied"
         copyBtn.style.backgroundColor = "green"
         copyBtn.style.color = "white"
