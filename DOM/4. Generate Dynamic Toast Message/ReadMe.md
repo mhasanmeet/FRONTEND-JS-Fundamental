@@ -1,6 +1,3 @@
-## Generate Toast Message in Dynamically
+## Input Hex Color Code Change Background
 
 ### Image
-
-Generate Toast Message Dynmically when click in copy Button
-![image](image.png)
