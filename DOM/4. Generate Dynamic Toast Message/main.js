@@ -50,7 +50,7 @@ function main(){
         //show div element into HTML
         document.body.appendChild(div)
         // After 1 section then this div section will be removed
-        setTimeout(() => div.remove(), 5000);
+        setTimeout(() => div.remove(), 1000);
     }
     
 }
