@@ -6,7 +6,9 @@
 ### Image
 
 1. Generate color 
+
 ![Image](gcolor.png)
 
 1. Copy to clipboard 
+
 ![Image](ccolor.png)
