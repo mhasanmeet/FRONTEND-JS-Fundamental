@@ -5,6 +5,6 @@
 * Type Error 
 * Indentation Error 
 
-### Image
+### JavaScript Error Handling at a glance
 
 ![JavaScript Error](./error.png)
