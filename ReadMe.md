@@ -1,6 +1,7 @@
 # JavaScript Fundamentals from my Learning
 
-## Topics by George Moller
+<details>
+<summary>Topics by George Moller</summary>
 
 * Execution Context
 * Operators
@@ -13,6 +14,47 @@
 * Inheritance
 * Prototype Chain
 * Modules
+
+</details>
+
+<details>
+<summary>Topics by Me</summary>
+
+* DOM
+* Data Types
+* Operators
+* Functions
+* Methods
+* Loop Logics
+* ES6
+* Error Handling
+* Advance JS
+
+</details>
+
+<details>
+<summary>Important Concepts</summary>
+
+* Promise
+* Async / Await
+* Callback
+* Closures
+* Scope 
+* Hoisting
+* Strict Mode
+* Timing Events 
+* Destructuring
+* Spread Operator
+* Try & Catch
+* Rest Parameter
+* Recursion
+* Higher Order function
+* Immediately Invoked Function Expression
+* Regular & Arrow Function
+* Difference between == and === operator
+* JavaScript Primitive Types & Reference Types
+
+</details>
 
 ------------------
 1. [JS Visualizer](https://www.jsv9000.app/)
