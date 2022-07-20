@@ -1,36 +1,50 @@
-
-// Object
-var product = {
-    productName: "T-shirt",
-    Price: 20,
-    "is Stock" : true
+// A basic Function ----------------------
+function functionName(){
+    console.log("Hello World");
 }
 
-//Dynamic data
-let StockStatus = "is Stock"
+// Function Call, Invocation by calling
+functionName();
 
-// output
-console.log(product.productName);
-console.log(product["is Stock"]);
-console.log(product[StockStatus]);
-
-// Find the correct lenght
-function findLenght(){
-    let numbers = "123456789";
-    let numbersLenght = numbers.length;
-
-    for (let i = 0; i < numbersLenght; i++){
-        console.log(numbers[i]);
-    }
+// Function with Parameter & Argument ----------------------
+function functionWithParameter(Name, Age){
+    console.log("My name is:", Name, "and I'm", Age, "Years Old");
 }
 
-findLenght();
+//Function Call with Argument 
+functionWithParameter("Mahmudul", 28);
 
-//
-function myFunc() {
-    for (let i = 0; i != 4; i += 2) {
-      console.log("Still going!");
-    }
-  }
-  
-  myFunc()
+//Self Invocation Function, it is start automatically ----------------------
+(function selfInvocation(){
+    console.log("Hello World")
+})();
+
+// Returning Value, the return statement ise used to return a particular value from 
+//the function to the function caller ----------------------
+function returnValue(x, y){
+    return x+y
+}
+
+console.log(1 + 9);
+
+// Return Value using Array ----------------------
+function returnValueByArray(){
+    let Name = "Mahmudul Hasan";
+    let Age = 28;
+
+    return [Name, Age]
+}
+
+let [Name, Age] = returnValueByArray();
+console.log(Name);
+console.log(Age);
+
+// Return Value using object ----------------------
+function returnValueByObject(){
+
+    return {name: "Mahmudul Hasan", age: 28}
+}
+
+let {name, age} = returnValueByObject();
+console.log(name);
+console.log(age);

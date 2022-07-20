@@ -1,3 +1,6 @@
+## Function Structure 
+
+![Structure](structure.png)
 
 ### functions Topics
 
@@ -5,3 +8,4 @@
 * first Class function
 * closures
 * callback
+

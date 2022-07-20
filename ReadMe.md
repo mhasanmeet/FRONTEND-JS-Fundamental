@@ -1,4 +1,18 @@
-## JavaScript Fundamentals from my Learning
+# JavaScript Fundamentals from my Learning
+
+## Topics by George Moller
+
+* Execution Context
+* Operators
+* Control Flow
+* Error Handling
+* Object 
+* Function
+* Arrays
+* ES6
+* Inheritance
+* Prototype Chain
+* Modules
 
 ------------------
 1. [JS Visualizer](https://www.jsv9000.app/)
