@@ -10,7 +10,7 @@ class productData{
 }
 
 // Initiate Class inheritance here now
-// Interitance means include a class content into another, so that we don't need to add every info in the next class
+// Inheritance means include a class content into another, so that we don't need to add every info in the next class
 class productData2 extends productData {
     constructor (pName, pPrice, pStock, pColor){
         super(pName, pPrice, pStock);
