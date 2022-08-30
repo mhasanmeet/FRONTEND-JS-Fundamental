@@ -1,36 +1,9 @@
-# JavaScript Fundamentals from my Learning
+## My JavaScript Fundamental Learning
 
-<details>
-<summary>Topics by George Moller</summary>
+### Topics
 
-* Execution Context
-* Operators
-* Control Flow
-* Error Handling
-* Object 
-* Function
-* Arrays
-* ES6
-* Inheritance
-* Prototype Chain
-* Modules
+1. Important Docs - [100.Doc](/100-DOC/)
 
-</details>
-
-<details>
-<summary>Topics by Me</summary>
-
-* DOM
-* Data Types
-* Operators
-* Functions
-* Methods
-* Loop Logics
-* ES6
-* Error Handling
-* Advance JS
-
-</details>
 
 <details>
 <summary>Important Concepts</summary>
@@ -56,7 +29,7 @@
 
 </details>
 
-------------------
+### Books, Blogs & Online Tools
 1. [JS Visualizer](https://www.jsv9000.app/)
 2. [List of Advance JS Question](https://github.com/lydiahallie/javascript-questions)
 3. [Clean Code JS](https://github.com/ryanmcdermott/clean-code-javascript)

@@ -25,3 +25,12 @@ function simpleRestParam(...anyName){
 }
 
 simpleRestParam('Bangladesh', 'UK')
+
+let a = 20;
+let b = 5;
+let c = a % b;
+
+console.log(c);
+
+// output: 5 
+
