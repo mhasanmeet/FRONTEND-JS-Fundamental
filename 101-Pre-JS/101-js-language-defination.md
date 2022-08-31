@@ -11,6 +11,7 @@ But High level programming language like JavaScript or Python we do not need to 
 JavaScript is a prototype based object oriented programming language, means code can inherit from prototype.
 
 Here an Array Push in Prototype,
+
 ![Prototype](./images/prototype.png)
 
 in code we write as

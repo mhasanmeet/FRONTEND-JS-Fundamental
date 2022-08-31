@@ -5,19 +5,23 @@ JavaScript Programming Language executed in JS Engine. Which take high level hum
 2. Node JS
 3. SpiderMonkey (Powering Firefox)
 
-> We write human friendly code in Code Editor like VS code
+We write human friendly code in Code Editor like VS code
+
 ![JS Code](./images/JS-code.png)
 
-> Then JS Engine translate it into machine code. 
+Then JS Engine translate it into machine code. 
+
 ![Machine Code](./images/machine-code.png)
 
 The computer machine can not understand without 0s & 1s. Why computer can not understand without 0s & 1s? There have come jointly electronic and computer science engineering theory what mostly cover in CSE course. 
 
 ## Stack & Heap 
 **Stack in Data Structure:** Stack is a list of elements in which an element may be inserted or deleted only at one end, this means the elements are removed from a stack in reverse order of the way in which they are inserted. Two basic operation of Stack is push & pop. 
+
 ![stack](./images/stack.png)
 
 **Heap in Data Structure:** Heap is a special Tree-based data structure.
+
 ![Heap](./images/Heap.png)
 
 ## In JS Stack and heap memory
@@ -59,7 +63,7 @@ When JS working or executing in Node, JS can not interacting with Web API featur
 
 ---
 Credit: 
-1. Jonas JavScript Lecture, Link - <link href="../100-DOC/JS-Lecture-jonas.pdf">
+1. Jonas JavScript Lecture
 2. Javascripttutorial.net - [Javascripttutorial.net](https://www.javascripttutorial.net/javascript-primitive-vs-reference-values/)
 3. javascript.info - [javascript.info](https://javascript.info/types)
 

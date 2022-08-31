@@ -1,3 +1,5 @@
+## History of JavaScript 
+
 ## 1995
 Brendan Eich creates the very first version of JavaScript in just 10 days. It was called
 Mocha, but already had many fundamental features of modern JavaScript
