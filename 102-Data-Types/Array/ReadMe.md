@@ -1,4 +1,0 @@
-
-* Array Concatenation
-* Slice
-* 
