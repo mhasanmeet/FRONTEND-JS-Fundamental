@@ -11,12 +11,12 @@ function calculateTotal(a, b, c, d){
 // Calculate total using spread operator
 //calculateTotal(...products)
 
-// JS Push using spread operartor
+// JS Push using spread operator
 var fruitsName = ["Apple", "Mango", "Jackfruits"];
 
-const addLichy = [...fruitsName, "Lichy"]
+const addLichi = [...fruitsName, "Lichi"]
 
-console.log(addLichy)
+console.log(addLichi)
 
 // Add two array 
 var array1 = [1, 2, 3, 4]

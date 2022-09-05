@@ -1,9 +1,9 @@
-// Constructor function use new for object crearion
+// Constructor function use new for object creation
 function ProductData( name, price){
     this.name = name,
     this.price = price
 }
 
-const cholocateProduct = new ProductData("KitKat", 100)
+const colocateProduct = new ProductData("KitKat", 100)
 
-console.log(cholocateProduct);
+console.log(colocateProduct);

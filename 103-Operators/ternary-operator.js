@@ -7,7 +7,7 @@
 var personName = "Mahmudul"
 var personAge = 30;
 
-// A bsic if else condition
+// A basic if else condition
 if (personAge > 30){
     personName = "nahid"
 }else{

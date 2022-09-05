@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For Each</title>
+</head>
+<body>
+    
+    <div id="root"></div>
+
+    <script>
+        //Array
+        let num = [2, 4, 6, 8, 10]
+        
+        //blank Text Variable
+        let text = "";
+
+        //callback function
+        num.forEach(myFunc);
+
+        document.getElementById('root').innerHTML = text;
+
+        function myFunc(value, index, array){
+            text += index + " - " + value + " - " + array + "<br>";
+        }
+    </script>
+</body>
+</html>
