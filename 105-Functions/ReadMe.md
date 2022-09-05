@@ -16,8 +16,9 @@
 🔶What is Arguments?
 🔷 
 
-🔶 What is Callback Function?
+
 <details>
+<summary>🔶 What is Callback Function?</summary>
 🔷 When a Function **takes a function as a parameter** and **that function called inside the function**, then it is called callback function.
 </details>
 
