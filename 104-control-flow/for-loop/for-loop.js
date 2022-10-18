@@ -1,33 +1,32 @@
 
-// Find the correct length
-function findLength(){
+// Print all numbers
+function printNumbers(){
     let numbers = "123456789";
-    let numbersLength = numbers.length;
 
-    for (let i = 0; i < numbersLength; i++){
+    for (let i = 0; i < numbers.length; i++){
         console.log(numbers[i]);
     }
 }
 
-findLength();
+printNumbers();
 
-//--------------------------------- 
+//print the output if for loop execute and true the condition
 function myFunc() {
-    for (let i = 0; i != 8; i += 2) {
+    for (let i = 0; i != 4; i += 4) {
       console.log("Still going!");
     }
   }
   
 myFunc()
 
-//without initializer ---------------------------
+//without initializer into loop put the initializer outside the loop
 let j = 1;
 
 for (; j < 10; j ++){
   console.log(j);
 }
 
-//without condition -----------------------------
+//without condition into loop and put the condition outside the loop
 for (let i = 0; ; i +=2){
   console.log(i)
 
@@ -35,3 +34,10 @@ for (let i = 0; ; i +=2){
     break;
   }
 }
+
+//for loop without the loop body
+let sum  = 9;
+
+for (let i = 0; i <= 9; i++, sum += i);
+console.log(sum)
+//output: 64

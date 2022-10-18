@@ -1,6 +1,7 @@
 
 // array
 let arr1 = [1, 2, 4, 6, 8]
+
 // blank array
 let arr2 = [];
 
