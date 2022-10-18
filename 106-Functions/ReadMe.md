@@ -1,7 +1,7 @@
 ## Important Functions Concepts & Definition
 
 Function Structure
-![Structure](structure.png)
+![Structure](./Images/structure.png)
 
 ## functions Topics
 
@@ -89,3 +89,4 @@ When a Function **takes a function as a parameter** and **that function called i
 ### First Class function 
 ### closures 
 ### callback Function 
+

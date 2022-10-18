@@ -1,10 +1,5 @@
 ## My JavaScript Fundamental Learning
 
-### Topics
-
-1. Important Docs - [100.Doc](/100-DOC/)
-
-
 <details>
 <summary>Important Concepts</summary>
 
