@@ -9,6 +9,8 @@ class productData{
     }
 }
 
+
+
 // Initiate Class inheritance here now
 // Inheritance means include a class content into another, so that we don't need to add every info in the next class
 class productData2 extends productData {
@@ -17,6 +19,7 @@ class productData2 extends productData {
         this.pColor = pColor
     }
 }
+
 
 // Initiate A New Object
 const ReactTShirt = new productData2("React Developer T Shirt", "350 Taka", "Yes", "Black");

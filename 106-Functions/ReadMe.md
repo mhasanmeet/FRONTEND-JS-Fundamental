@@ -5,7 +5,7 @@ Function Structure
 
 ## functions Topics
 
-### What is function?
+* What is function?
 Function is block area in JavaScript, where we do some specific calculation, or make a mechanism which can do calculation, in JavaScript program. Like we can do two sum addition, and we can use those value in others area. 
 
 ```JS 
@@ -23,10 +23,10 @@ Function is block area in JavaScript, where we do some specific calculation, or 
     //another function production
     addition(5, 7) // Output: 12
 ```
-### What is function keyword?
-### What is Parameter?
-### What is Arguments? 
-### What is difference between `console.log` and `return` in function?
+* What is function keyword?
+* What is Parameter?
+* What is Arguments? 
+* What is difference between `console.log` and `return` in function?
 > `return` in function use for return the value from the functional block. JS engine halt the execution and returning the value what it asked to return, when find the `return` keyword. 
 
 Here is an example. 
@@ -82,11 +82,12 @@ Here is important factor is what return give us. In the for loop in count functi
     */
 ```
 In here it give us expected logging out value, expect last undefined. Since we never specified a return, it give us undefined in the last value. 
-### What is Callback Function?
+* What is Callback Function?
 When a Function **takes a function as a parameter** and **that function called inside the function**, then it is called callback function.
-### What us Function Expression? 
-### Pure function  
-### First Class function 
-### closures 
-### callback Function 
+* What us Function Expression? 
+* Pure function  
+* First Class function 
+* closures 
+* callback Function 
+* anonymous function
 

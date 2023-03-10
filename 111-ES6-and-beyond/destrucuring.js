@@ -28,3 +28,10 @@ console.log(city); // Output: "Dhaka"
 let {firstName: firstN, age, cityN = "Dhaka;" } = person;
 console.log(firstN); // Mahmudul
 
+//Array destructuring 
+const array = ["Mahmudul", "Nasim", "Khalil"]
+
+const [arr, ...newArr] = array;
+console.log(arr) //Mahmudul
+console.log(newArr) // [ 'Nasim', 'Khalil' ]
+

@@ -1,4 +1,4 @@
-// function 
+// a simple function with for loop
 function simpleFunc(){
     for (var i = 0; i < arguments.length; i++){
         console.log("Argument Passed: " + arguments[i])
@@ -7,7 +7,10 @@ function simpleFunc(){
 
 //simpleFunc('Bangladesh', 'India');
 
-// When it is array function it will not work
+
+
+
+// When it is arrow function it will not work
 const simpleArrayFunc = () =>{
     for (var i = 0; i < arguments.length; i++){
         console.log("Argument Passed: " + arguments[i])
@@ -15,6 +18,8 @@ const simpleArrayFunc = () =>{
 } 
 
 //simpleArrayFunc("Bangladesh", "UK")
+
+
 
 
 // Spread Operator
@@ -25,12 +30,4 @@ function simpleRestParam(...anyName){
 }
 
 simpleRestParam('Bangladesh', 'UK')
-
-let a = 20;
-let b = 5;
-let c = a % b;
-
-console.log(c);
-
-// output: 5 
 

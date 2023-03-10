@@ -11,7 +11,6 @@
 
 */
 
-//-----------------------------------
 //Function can stored in a variable
 // A function
 function sumData(a, b){
@@ -22,7 +21,8 @@ function sumData(a, b){
 let data = sumData
 console.log(data(4, 9))
 
-//-----------------------------------
+
+
 //Function can be stored in an array
 // Declare an Array
 let arrayData = []
@@ -31,7 +31,8 @@ arrayData.push(sumData)
 //calculate the sumData in array 0 index's
 console.log(arrayData[0](9, 19))
 
-//-----------------------------------
+
+
 // Function can be stored in an object
 let objData = {
     sum: sumData

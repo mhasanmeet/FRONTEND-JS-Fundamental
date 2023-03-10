@@ -1,11 +1,12 @@
-// Object
+// Object is a reference value data type
+
 var product = {
     productName: "T-shirt",
     Price: 20,
     "is Stock" : true
 }
 
-//Dynamic data
+//we can put object value into variable
 let StockStatus = "is Stock"
 
 // output

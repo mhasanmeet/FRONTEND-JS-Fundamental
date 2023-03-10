@@ -33,3 +33,4 @@
 7. [Deep JS](https://exploringjs.com/deep-js/toc.html)
 8. [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 9. [Time Complexity](https://www.bigocheatsheet.com/)
+10. [JavaScript Visualize Series](https://dev.to/lydiahallie/series/3341)
