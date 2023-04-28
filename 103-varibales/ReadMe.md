@@ -1,6 +1,6 @@
 ## JavaScript Variables
 
-* var
+* var (deprecated)
 * let 
 * const
 
