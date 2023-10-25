@@ -78,8 +78,11 @@ Here we pass a function into variable,
 ```
 
 ---
-Credit: Some content credited from Jonas. 
+#### Credit and reference
 
+* Some content credited from Jonas. 
+1. [Execution Context - How JavaScript runs your code ](https://www.youtube.com/watch?v=Wk0-6b1W_VQ)
+2. [JS Event loop details explanation](https://www.youtube.com/watch?v=juHkuCtMGtQ)
 
 
 
